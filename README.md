@@ -18,7 +18,7 @@
 
   * JDK 8
   * MVC
-  * TomCat 8.5
+  * Tomat 8.5
   * eclipse EE
   * HTML5, CSS3, JS
   * MySQL 5.7
