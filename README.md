@@ -26,23 +26,23 @@
 
 ***
 # Team Members
-* 배재희
+* **배재희**
   * GitHub - https://github.com/ddukkung
   * Mail   - bjh3657@gmail.com
-* 유여진
+* **유여진**
   * GitHub - https://github.com/lyeo72
   * Mail   - lyeo7272@gmail.com
-* 정성원
+* **정성원**
   * GitHub - https://github.com/JEONGWon9
-* 강병구
+* **강병구**
   * GitHub - https://github.com/kangbinggu
-* 조정민
+* **조정민**
   * GitHub - https://github.com/akrso
-* 김병만
+* **김병만**
   * GitHub - https://github.com/kimByeongman
-* 김민수
+* **김민수**
   * GitHub - https://github.com/minsu123q
-* 김은효 
+* **김은효** 
 
 ***
 # Member
