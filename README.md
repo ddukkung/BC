@@ -23,3 +23,23 @@
   <li>MySQL 5.7</li>
   <li>BootStrap</li>
 </ul>
+
+<hr>
+<h1>Team Members</h1>
++ 배재희
+  + GitHub - https://github.com/ddukkung
+  + Mail   - bjh3657@gmail.com
++ 유여진
+  + GitHub - https://github.com/lyeo72
+  + Mail   - bjh3657@gmail.com
++ 정성원
+  + GitHub - https://github.com/JEONGWon9
++ 강병구
+  + GitHub - https://github.com/kangbinggu
++ 조정민
+  + GitHub - https://github.com/akrso
++ 김병만
+  + GitHub - https://github.com/kimByeongman
++ 김민수
+  + GitHub - https://github.com/minsu123q
++ 
