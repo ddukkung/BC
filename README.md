@@ -21,6 +21,7 @@
   * Tomat 8.5
   * eclipse EE
   * HTML5, CSS3, JS
+  * Ajax, JQuery
   * MySQL 5.7
   * BootStrap
 
