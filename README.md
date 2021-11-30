@@ -1,5 +1,5 @@
 # 집밥선생
-![main](https://user-images.githubusercontent.com/88926356/142715852-62bbe4e5-5649-4a12-8ad9-b2b720c799ea.gif)
+![메인](https://user-images.githubusercontent.com/88926356/143993110-fd70e0fb-6a5d-4900-802c-f9320c22bafa.png)
 
 * 집밥선생은 쇼핑몰 웹어플리케이션 프로젝트입니다.
 * 회원을 구매자, 판매자, 관리자로 분리하였습니다.
