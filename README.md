@@ -11,7 +11,6 @@
 # 개발환경
 
   * JDK 8
-  * MVC
   * Tomat 8.5
   * eclipse EE
   * HTML5, CSS3, JS
