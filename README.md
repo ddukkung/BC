@@ -1,27 +1,25 @@
 # 집밥선생
 ![메인](https://user-images.githubusercontent.com/88926356/143993110-fd70e0fb-6a5d-4900-802c-f9320c22bafa.png)
 
-* 집밥선생은 쇼핑몰 웹어플리케이션 프로젝트입니다.
-* 회원을 구매자, 판매자, 관리자로 분리하였습니다.
+* 집밥선생은 반찬을 판매하는 쇼핑몰 웹 사이트 프로젝트입니다.
 * 해당 레파지토리는 프로젝트 진행 도중 깃허브 사용 미숙으로 기존의 레파지토리가 사용 불가능해져 새로 만들어진 곳입니다. 이전의 커밋 기록 및 작업 내용을 보시려면 아래의 레파지토리를 참고해주십시오.
   * https://github.com/ITWILL1TEAM/Banchan
 
-***
+<br>
 
-# 개발환경
+## 1. 제작 기간 & 참여 인원
+* 2021년 10월 1일 ~ 11월 11일
+* 8인 팀 프로젝트
 
+<br>
+
+# 2. 사용 기술
   * JDK 8
   * Tomat 8.5
-  * eclipse EE
-  * HTML5, CSS3, JS
   * Ajax, JQuery
   * MySQL 5.7
   * BootStrap
 
-***
-* **배재희**
-  * GitHub - https://github.com/ddukkung
-  * Mail   - bjh3657@gmail.com
 
 ***
 # Product
