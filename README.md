@@ -14,8 +14,8 @@
 <br>
 
 ## 2. 사용 기술
-  * JDK 8
-  * Tomat 8.5
+  * Java 8
+  * Tomcat 8.5
   * JSP
   * MySQL 5.7
   * Ajax, JQuery
