@@ -2,6 +2,7 @@
 ![메인](https://user-images.githubusercontent.com/88926356/143993110-fd70e0fb-6a5d-4900-802c-f9320c22bafa.png)
 
 * 집밥선생은 반찬을 판매하는 쇼핑몰 웹 사이트 프로젝트입니다.
+* [더반찬](https://www.thebanchan.co.kr/main/initMain.action) 사이트를 클론코딩하였습니다.
 * 해당 레파지토리는 프로젝트 진행 도중 깃허브 사용 미숙으로 기존의 레파지토리가 사용 불가능해져 새로 만들어진 곳입니다. 이전의 커밋 기록 및 작업 내용을 보시려면 아래의 레파지토리를 참고해주십시오.
   * https://github.com/ITWILL1TEAM/Banchan
 
